@@ -1,0 +1,9 @@
+2025-11-03 10:09:14,486 [INFO] MS rows for 'биннофарм групп': 1343
+2025-11-03 10:09:14,487 [INFO] DSM rows for 'биннофарм групп': 534
+2025-11-03 10:09:14,515 [INFO] Parent (active) rows: 265
+2025-11-03 10:09:14,516 [INFO] Child (manual) rows: 1078
+2025-11-03 10:09:14,516 [INFO] Loading sentence transformer model: sentence-transformers/paraphrase-multilingual-MiniLM-L12-v2
+2025-11-03 10:09:14,518 [INFO] Use pytorch device_name: cpu
+2025-11-03 10:09:14,518 [INFO] Load pretrained SentenceTransformer: sentence-transformers/paraphrase-multilingual-MiniLM-L12-v2
+2025-11-03 10:09:21,480 [INFO] Model loaded
+2025-11-03 13:10:45,680 [INFO] Saved 285670 pairs to duplicates_binno_full.xlsx
